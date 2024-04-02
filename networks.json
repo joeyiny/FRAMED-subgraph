@@ -1,12 +1,9 @@
 {
   "inco-gentry-1": {
-    "Mafia": {
-      "address": "0xCA67E26d9DcED4A5C8157e753c42a7275102E37B",
-      "startBlock": 811612,
-      "chainId": 9090
-    },
     "Contract": {
-      "address": "0x577c8E0565CeaeCfC6903B8eeBa90c57b6B79cA3"
+      "address": "0x577c8E0565CeaeCfC6903B8eeBa90c57b6B79cA3",
+
+      "startBlock": 811933
     }
   }
 }
